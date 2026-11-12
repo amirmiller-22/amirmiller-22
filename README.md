@@ -19,4 +19,4 @@ Senior Full Stack Engineer building AI-powered customer support software. I work
 
 ## Stats
 
-![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirmiller-22&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Amir's GitHub streak](https://streak-stats.demolab.com/?user=amirmiller-22&theme=dark&hide_border=true)
