@@ -8,7 +8,9 @@
   <a href="https://www.linkedin.com/in/amirmiller22/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-I build AI-powered customer support software end to end in **TypeScript, Node.js and React**: from queues and APIs that have to keep working at 3 a.m. to the dashboards people use every day.
+I build AI agents that handle customer support conversations, working across the whole stack in **TypeScript, Node.js and React**.
+
+I like the parts that have to be dependable: queues and APIs that hold up under load, and dashboards that make a complex system easy to trust.
 
 ## What I work with
 
