@@ -33,6 +33,14 @@ I like the parts that have to be dependable: queues and APIs that hold up under 
 - [**async-kit**](https://github.com/amirmiller-22/async-kit): tiny, dependency-free TypeScript helpers for async code (retry, timeout, concurrency limit). Tested on Node 20 and 22.
 - [**ts-utils gist**](https://gist.github.com/amirmiller-22/fff7f082bc87fb3653f5f038a5d78204): small typed utilities I reach for often.
 
+## Off the keyboard
+
+<img src="assets/hapoel-jerusalem.png" alt="Hapoel Jerusalem" width="72" align="left" />
+
+Hapoel Jerusalem fan, through the good seasons and the other ones. ❤️🖤
+
+<br clear="left" />
+
 ## Stats
 
 ![Amir's GitHub streak](https://streak-stats.demolab.com/?user=amirmiller-22&theme=dark&hide_border=true)
