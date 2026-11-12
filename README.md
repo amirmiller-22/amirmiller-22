@@ -35,7 +35,7 @@ I like the parts that have to be dependable: queues and APIs that hold up under 
 
 ## Off the keyboard
 
-<img src="assets/hapoel-jerusalem.png" alt="Hapoel Jerusalem" width="72" align="left" />
+<img src="assets/hapoel-jerusalem-logo.png" alt="Hapoel Jerusalem" width="72" align="left" />
 
 Hapoel Jerusalem fan, through the good seasons and the other ones. ❤️🖤
 
