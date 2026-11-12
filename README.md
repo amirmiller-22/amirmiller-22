@@ -26,6 +26,11 @@ I build AI-powered customer support software end to end in **TypeScript, Node.js
 - 💬 Ask me about: TypeScript, testing, CI, debugging production issues
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/amirmiller22/)
 
+## Open source
+
+- [**async-kit**](https://github.com/amirmiller-22/async-kit): tiny, dependency-free TypeScript helpers for async code (retry, timeout, concurrency limit). Tested on Node 20 and 22.
+- [**ts-utils gist**](https://gist.github.com/amirmiller-22/fff7f082bc87fb3653f5f038a5d78204): small typed utilities I reach for often.
+
 ## Stats
 
 ![Amir's GitHub streak](https://streak-stats.demolab.com/?user=amirmiller-22&theme=dark&hide_border=true)
