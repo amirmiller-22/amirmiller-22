@@ -1,6 +1,14 @@
-# Hi, I'm Amir 👋
+<h1 align="center">Hi, I'm Amir 👋</h1>
 
-Senior Full Stack Engineer building AI-powered customer support software. I work end to end in **TypeScript, Node.js and React**, from queues and APIs that have to keep working at 3 a.m. to the dashboards people use every day.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Senior+Full+Stack+Engineer;TypeScript+%C2%B7+Node.js+%C2%B7+React;Building+AI-powered+support+software" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amirmiller22/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+I build AI-powered customer support software end to end in **TypeScript, Node.js and React**: from queues and APIs that have to keep working at 3 a.m. to the dashboards people use every day.
 
 ## What I work with
 
@@ -16,6 +24,7 @@ Senior Full Stack Engineer building AI-powered customer support software. I work
 - 🔭 Building agent workflows and sequences for conversational AI
 - 🌱 Learning more about distributed systems and observability
 - 💬 Ask me about: TypeScript, testing, CI, debugging production issues
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/amirmiller22/)
 
 ## Stats
 
