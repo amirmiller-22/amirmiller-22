@@ -59,7 +59,3 @@ Before Notch I spent almost seven years at Quicklizard, growing from back-end en
 Hapoel Jerusalem fan, through the good seasons and the other ones. ❤️🖤
 
 <br clear="left" />
-
-## Stats
-
-![Amir's GitHub streak](https://streak-stats.demolab.com/?user=amirmiller-22&theme=dark&hide_border=true)
